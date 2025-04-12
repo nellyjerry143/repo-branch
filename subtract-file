@@ -1,0 +1,4 @@
+a = 50
+b = 30
+subtract = a - b
+print("The answer is:", subtract)
